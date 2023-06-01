@@ -1,0 +1,15 @@
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\ETprice\ETprice\bin\Debug\net6.0\ETprice.exe
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\ETprice\ETprice\bin\Debug\net6.0\ETprice.deps.json
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\ETprice\ETprice\bin\Debug\net6.0\ETprice.runtimeconfig.json
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\ETprice\ETprice\bin\Debug\net6.0\ETprice.dll
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\ETprice\ETprice\bin\Debug\net6.0\ETprice.pdb
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\ETprice\ETprice\obj\Debug\net6.0\ETprice.csproj.AssemblyReference.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\ETprice\ETprice\obj\Debug\net6.0\ETprice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\ETprice\ETprice\obj\Debug\net6.0\ETprice.AssemblyInfoInputs.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\ETprice\ETprice\obj\Debug\net6.0\ETprice.AssemblyInfo.cs
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\ETprice\ETprice\obj\Debug\net6.0\ETprice.csproj.CoreCompileInputs.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\ETprice\ETprice\obj\Debug\net6.0\ETprice.dll
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\ETprice\ETprice\obj\Debug\net6.0\refint\ETprice.dll
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\ETprice\ETprice\obj\Debug\net6.0\ETprice.pdb
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\ETprice\ETprice\obj\Debug\net6.0\ETprice.genruntimeconfig.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\ETprice\ETprice\obj\Debug\net6.0\ref\ETprice.dll
